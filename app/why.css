@@ -1,0 +1,31 @@
+.flipContainer {
+  perspective: 1000px;
+}
+
+.flipCard {
+  position: relative;
+  transform-style: preserve-3d;
+  transition: transform 0.6s;
+}
+
+.flipCard:hover {
+  transform: rotateY(180deg);
+}
+
+.flipFront,
+.flipBack {
+  backface-visibility: hidden;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+.flipImage {
+  transition: transform 0.6s;
+}
+
+.flipCard:hover .flipImage {
+  transform: rotateY(180deg);
+}

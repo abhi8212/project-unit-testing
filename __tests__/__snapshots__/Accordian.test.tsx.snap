@@ -1,0 +1,355 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Accordion component renders correctly 1`] = `
+<div>
+  <div
+    class="flex flex-col lg:flex-row w-full mt-9"
+  >
+    <div
+      class="relative bg-slate-800 py-10 lg:w-1/2 mx-2"
+    >
+      <div
+        class="mx-auto"
+      >
+        <div
+          class="mb-20 mt-20 px-6"
+        >
+          <h3
+            class="text-lg"
+          >
+            Our Program
+          </h3>
+          <h1
+            class="text-4xl mb-4 text-white"
+          >
+            Smarty Programs
+          </h1>
+          <p
+            class="text-base mr-4 text-white"
+          >
+            Dear parents, we would like to thank you for choosing the Kindori Preschool System in the process of considering and planning your children
+          </p>
+        </div>
+      </div>
+      <div
+        class="mx-auto relative bg-white rounded-2xl mr-3 z-10"
+      >
+        <div
+          class=""
+        >
+          <div
+            class="flex justify-start items-center p-3 cursor-pointer border-b-2"
+            data-testid="accordion-question"
+          >
+            <div
+              class="bg-red-500 p-2 rounded-full"
+            >
+              <img
+                alt="img"
+                data-nimg="1"
+                decoding="async"
+                height="32"
+                loading="lazy"
+                src="/_next/image?url=%2Fimg.jpg&w=64&q=75"
+                srcset="/_next/image?url=%2Fimg.jpg&w=32&q=75 1x, /_next/image?url=%2Fimg.jpg&w=64&q=75 2x"
+                style="color: transparent;"
+                width="32"
+              />
+            </div>
+            <div
+              class="font-bold ml-3 font-serif"
+            >
+              First School (1 - 2 Years)
+            </div>
+            <div
+              class="flex-grow"
+            />
+            <div
+              class="text-white p-2 rounded-full bg-yellow-600"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 448 512"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M416 208H272V64c0-17.67-14.33-32-32-32h-32c-17.67 0-32 14.33-32 32v144H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h144v144c0 17.67 14.33 32 32 32h32c17.67 0 32-14.33 32-32V304h144c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z"
+                />
+              </svg>
+            </div>
+          </div>
+          <div
+            class="hidden"
+            data-testid="accordion-answer"
+          >
+            <div
+              class="text-gray-700 font-serif"
+            >
+              Although the first school is a lot of surprises, it is the first step for a comprehensive development in all aspects. By creating a safe, consistent and welcoming environment, we help Our school follows the guidelines of the local school district.
+            </div>
+          </div>
+        </div>
+        <div
+          class=""
+        >
+          <div
+            class="flex justify-start items-center p-3 cursor-pointer border-b-2"
+            data-testid="accordion-question"
+          >
+            <div
+              class="bg-red-500 p-2 rounded-full"
+            >
+              <img
+                alt="img"
+                data-nimg="1"
+                decoding="async"
+                height="32"
+                loading="lazy"
+                src="/_next/image?url=%2Fimg.jpg&w=64&q=75"
+                srcset="/_next/image?url=%2Fimg.jpg&w=32&q=75 1x, /_next/image?url=%2Fimg.jpg&w=64&q=75 2x"
+                style="color: transparent;"
+                width="32"
+              />
+            </div>
+            <div
+              class="font-bold ml-3 font-serif"
+            >
+              First School (1 - 2 Years)
+            </div>
+            <div
+              class="flex-grow"
+            />
+            <div
+              class="text-white p-2 rounded-full bg-yellow-600"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 448 512"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M416 208H272V64c0-17.67-14.33-32-32-32h-32c-17.67 0-32 14.33-32 32v144H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h144v144c0 17.67 14.33 32 32 32h32c17.67 0 32-14.33 32-32V304h144c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z"
+                />
+              </svg>
+            </div>
+          </div>
+          <div
+            class="hidden"
+            data-testid="accordion-answer"
+          >
+            <div
+              class="text-gray-700 font-serif"
+            >
+              Although the first school is a lot of surprises, it is the first step for a comprehensive development in all aspects. By creating a safe, consistent and welcoming environment, we help Our school follows the guidelines of the local school district.
+            </div>
+          </div>
+        </div>
+        <div
+          class=""
+        >
+          <div
+            class="flex justify-start items-center p-3 cursor-pointer border-b-2"
+            data-testid="accordion-question"
+          >
+            <div
+              class="bg-red-500 p-2 rounded-full"
+            >
+              <img
+                alt="img"
+                data-nimg="1"
+                decoding="async"
+                height="32"
+                loading="lazy"
+                src="/_next/image?url=%2Fimg.jpg&w=64&q=75"
+                srcset="/_next/image?url=%2Fimg.jpg&w=32&q=75 1x, /_next/image?url=%2Fimg.jpg&w=64&q=75 2x"
+                style="color: transparent;"
+                width="32"
+              />
+            </div>
+            <div
+              class="font-bold ml-3 font-serif"
+            >
+              First School (1 - 2 Years)
+            </div>
+            <div
+              class="flex-grow"
+            />
+            <div
+              class="text-white p-2 rounded-full bg-yellow-600"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 448 512"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M416 208H272V64c0-17.67-14.33-32-32-32h-32c-17.67 0-32 14.33-32 32v144H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h144v144c0 17.67 14.33 32 32 32h32c17.67 0 32-14.33 32-32V304h144c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z"
+                />
+              </svg>
+            </div>
+          </div>
+          <div
+            class="hidden"
+            data-testid="accordion-answer"
+          >
+            <div
+              class="text-gray-700 font-serif"
+            >
+              Although the first school is a lot of surprises, it is the first step for a comprehensive development in all aspects. By creating a safe, consistent and welcoming environment, we help Our school follows the guidelines of the local school district.
+            </div>
+          </div>
+        </div>
+        <div
+          class=""
+        >
+          <div
+            class="flex justify-start items-center p-3 cursor-pointer border-b-2"
+            data-testid="accordion-question"
+          >
+            <div
+              class="bg-red-500 p-2 rounded-full"
+            >
+              <img
+                alt="img"
+                data-nimg="1"
+                decoding="async"
+                height="32"
+                loading="lazy"
+                src="/_next/image?url=%2Fimg.jpg&w=64&q=75"
+                srcset="/_next/image?url=%2Fimg.jpg&w=32&q=75 1x, /_next/image?url=%2Fimg.jpg&w=64&q=75 2x"
+                style="color: transparent;"
+                width="32"
+              />
+            </div>
+            <div
+              class="font-bold ml-3 font-serif"
+            >
+              First School (1 - 2 Years)
+            </div>
+            <div
+              class="flex-grow"
+            />
+            <div
+              class="text-white p-2 rounded-full bg-yellow-600"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 448 512"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M416 208H272V64c0-17.67-14.33-32-32-32h-32c-17.67 0-32 14.33-32 32v144H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h144v144c0 17.67 14.33 32 32 32h32c17.67 0 32-14.33 32-32V304h144c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z"
+                />
+              </svg>
+            </div>
+          </div>
+          <div
+            class="hidden"
+            data-testid="accordion-answer"
+          >
+            <div
+              class="text-gray-700 font-serif"
+            >
+              Although the first school is a lot of surprises, it is the first step for a comprehensive development in all aspects. By creating a safe, consistent and welcoming environment, we help Our school follows the guidelines of the local school district.
+            </div>
+          </div>
+        </div>
+        <div
+          class=""
+        >
+          <div
+            class="flex justify-start items-center p-3 cursor-pointer border-b-2"
+            data-testid="accordion-question"
+          >
+            <div
+              class="bg-red-500 p-2 rounded-full"
+            >
+              <img
+                alt="img"
+                data-nimg="1"
+                decoding="async"
+                height="32"
+                loading="lazy"
+                src="/_next/image?url=%2Fimg.jpg&w=64&q=75"
+                srcset="/_next/image?url=%2Fimg.jpg&w=32&q=75 1x, /_next/image?url=%2Fimg.jpg&w=64&q=75 2x"
+                style="color: transparent;"
+                width="32"
+              />
+            </div>
+            <div
+              class="font-bold ml-3 font-serif"
+            >
+              First School (1 - 2 Years)
+            </div>
+            <div
+              class="flex-grow"
+            />
+            <div
+              class="text-white p-2 rounded-full bg-yellow-600"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 448 512"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M416 208H272V64c0-17.67-14.33-32-32-32h-32c-17.67 0-32 14.33-32 32v144H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h144v144c0 17.67 14.33 32 32 32h32c17.67 0 32-14.33 32-32V304h144c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z"
+                />
+              </svg>
+            </div>
+          </div>
+          <div
+            class="hidden"
+            data-testid="accordion-answer"
+          >
+            <div
+              class="text-gray-700 font-serif"
+            >
+              Although the first school is a lot of surprises, it is the first step for a comprehensive development in all aspects. By creating a safe, consistent and welcoming environment, we help Our school follows the guidelines of the local school district.
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="flex justify-center items-center lg:w-1/2"
+    >
+      <div
+        class="w-3/4"
+      >
+        <img
+          alt="play"
+          data-nimg="1"
+          decoding="async"
+          height="40"
+          loading="lazy"
+          src="/_next/image?url=%2Fimg.jpg&w=96&q=75"
+          srcset="/_next/image?url=%2Fimg.jpg&w=48&q=75 1x, /_next/image?url=%2Fimg.jpg&w=96&q=75 2x"
+          style="color: transparent;"
+          width="40"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;
