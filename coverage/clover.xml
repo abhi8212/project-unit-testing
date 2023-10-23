@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1698030058925" clover="3.2.0">
+  <project timestamp="1698030058925" name="All files">
+    <metrics statements="165" coveredstatements="165" conditionals="23" coveredconditionals="23" methods="35" coveredmethods="35" elements="223" coveredelements="223" complexity="0" loc="165" ncloc="165" packages="1" files="15" classes="15"/>
+    <file name="Accordian.tsx" path="D:\project-unit-testing\components\Accordian.tsx">
+      <metrics statements="15" coveredstatements="15" conditionals="4" coveredconditionals="4" methods="4" coveredmethods="4"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="9" count="7" type="stmt"/>
+      <line num="50" count="7" type="stmt"/>
+      <line num="52" count="7" type="stmt"/>
+      <line num="53" count="5" type="stmt"/>
+      <line num="54" count="5" type="stmt"/>
+      <line num="55" count="5" type="stmt"/>
+      <line num="72" count="35" type="stmt"/>
+      <line num="73" count="5" type="stmt"/>
+      <line num="101" count="2" type="stmt"/>
+    </file>
+    <file name="Acitvities.tsx" path="D:\project-unit-testing\components\Acitvities.tsx">
+      <metrics statements="10" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="9" count="1" type="stmt"/>
+      <line num="98" count="1" type="stmt"/>
+    </file>
+    <file name="Circle.tsx" path="D:\project-unit-testing\components\Circle.tsx">
+      <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="11" count="1" type="stmt"/>
+      <line num="16" count="4" type="stmt"/>
+      <line num="32" count="1" type="stmt"/>
+    </file>
+    <file name="Classes.tsx" path="D:\project-unit-testing\components\Classes.tsx">
+      <metrics statements="25" coveredstatements="25" conditionals="4" coveredconditionals="4" methods="6" coveredmethods="6"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="16" count="4" type="stmt"/>
+      <line num="48" count="4" type="stmt"/>
+      <line num="49" count="4" type="stmt"/>
+      <line num="51" count="4" type="stmt"/>
+      <line num="52" count="2" type="stmt"/>
+      <line num="54" count="2" type="cond" truecount="1" falsecount="0"/>
+      <line num="55" count="2" type="stmt"/>
+      <line num="56" count="2" type="stmt"/>
+      <line num="57" count="2" type="stmt"/>
+      <line num="59" count="2" type="stmt"/>
+      <line num="60" count="2" type="cond" truecount="1" falsecount="0"/>
+      <line num="61" count="1" type="stmt"/>
+      <line num="63" count="2" type="cond" truecount="1" falsecount="0"/>
+      <line num="64" count="1" type="stmt"/>
+      <line num="67" count="2" type="cond" truecount="1" falsecount="0"/>
+      <line num="69" count="2" type="stmt"/>
+      <line num="71" count="2" type="stmt"/>
+      <line num="72" count="2" type="stmt"/>
+      <line num="160" count="1" type="stmt"/>
+      <line num="177" count="16" type="stmt"/>
+      <line num="212" count="1" type="stmt"/>
+      <line num="224" count="3" type="stmt"/>
+    </file>
+    <file name="Discover.tsx" path="D:\project-unit-testing\components\Discover.tsx">
+      <metrics statements="10" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="14" count="1" type="stmt"/>
+      <line num="20" count="8" type="stmt"/>
+      <line num="37" count="2" type="stmt"/>
+    </file>
+    <file name="Enrollment.tsx" path="D:\project-unit-testing\components\Enrollment.tsx">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="20" count="1" type="stmt"/>
+    </file>
+    <file name="Footer.tsx" path="D:\project-unit-testing\components\Footer.tsx">
+      <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="9" count="1" type="stmt"/>
+      <line num="79" count="1" type="stmt"/>
+    </file>
+    <file name="Guiding.tsx" path="D:\project-unit-testing\components\Guiding.tsx">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="37" count="1" type="stmt"/>
+    </file>
+    <file name="Header.tsx" path="D:\project-unit-testing\components\Header.tsx">
+      <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="47" count="2" type="stmt"/>
+    </file>
+    <file name="Hero.tsx" path="D:\project-unit-testing\components\Hero.tsx">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="24" count="1" type="stmt"/>
+    </file>
+    <file name="Navbar.tsx" path="D:\project-unit-testing\components\Navbar.tsx">
+      <metrics statements="13" coveredstatements="13" conditionals="11" coveredconditionals="11" methods="3" coveredmethods="3"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="9" count="6" type="stmt"/>
+      <line num="10" count="6" type="stmt"/>
+      <line num="12" count="6" type="stmt"/>
+      <line num="13" count="2" type="stmt"/>
+      <line num="15" count="6" type="stmt"/>
+      <line num="16" count="1" type="stmt"/>
+      <line num="132" count="3" type="stmt"/>
+    </file>
+    <file name="Recents.tsx" path="D:\project-unit-testing\components\Recents.tsx">
+      <metrics statements="26" coveredstatements="26" conditionals="4" coveredconditionals="4" methods="6" coveredmethods="6"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="14" count="4" type="stmt"/>
+      <line num="38" count="4" type="stmt"/>
+      <line num="39" count="4" type="stmt"/>
+      <line num="41" count="4" type="stmt"/>
+      <line num="42" count="2" type="stmt"/>
+      <line num="44" count="2" type="cond" truecount="1" falsecount="0"/>
+      <line num="45" count="2" type="stmt"/>
+      <line num="46" count="2" type="stmt"/>
+      <line num="47" count="2" type="stmt"/>
+      <line num="49" count="2" type="stmt"/>
+      <line num="50" count="2" type="cond" truecount="1" falsecount="0"/>
+      <line num="51" count="1" type="stmt"/>
+      <line num="53" count="2" type="cond" truecount="1" falsecount="0"/>
+      <line num="54" count="1" type="stmt"/>
+      <line num="57" count="2" type="cond" truecount="1" falsecount="0"/>
+      <line num="59" count="2" type="stmt"/>
+      <line num="61" count="2" type="stmt"/>
+      <line num="62" count="2" type="stmt"/>
+      <line num="154" count="1" type="stmt"/>
+      <line num="171" count="16" type="stmt"/>
+      <line num="209" count="1" type="stmt"/>
+      <line num="221" count="3" type="stmt"/>
+    </file>
+    <file name="Teachers.tsx" path="D:\project-unit-testing\components\Teachers.tsx">
+      <metrics statements="11" coveredstatements="11" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="9" count="1" type="stmt"/>
+      <line num="15" count="1" type="stmt"/>
+      <line num="29" count="3" type="stmt"/>
+      <line num="63" count="1" type="stmt"/>
+    </file>
+    <file name="Testimonial.tsx" path="D:\project-unit-testing\components\Testimonial.tsx">
+      <metrics statements="11" coveredstatements="11" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="9" count="1" type="stmt"/>
+      <line num="37" count="1" type="stmt"/>
+      <line num="38" count="1" type="stmt"/>
+      <line num="67" count="4" type="stmt"/>
+      <line num="88" count="1" type="stmt"/>
+    </file>
+    <file name="WhyChoose.tsx" path="D:\project-unit-testing\components\WhyChoose.tsx">
+      <metrics statements="10" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="14" count="1" type="stmt"/>
+      <line num="26" count="4" type="stmt"/>
+      <line num="40" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
